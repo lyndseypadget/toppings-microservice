@@ -4,7 +4,7 @@ This is a microservice that makes pizza toppings.
 
 ### What is this repository for? ###
 
-Making toppings for pizzas!
+Making toppings for pizzas, because pizza is delicious.
 
 ### How do I get set up? ###
 
